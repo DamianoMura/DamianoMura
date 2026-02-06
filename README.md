@@ -37,7 +37,13 @@ Clean architecture, API‑driven, and optimized for developer experience.
 
 
 📊 GitHub Stats
-<div> <!-- Followers --> <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDamianoMura" /> <!-- Public Repos --> <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDamianoMura" /> <!-- Total Stars --> <img src="https://img.shields.io/badge/dynamic/json?color=yellow&label=Total%20Stars&query=%24%5B*%5D.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDamianoMura%2Frepos" /> <!-- Profile Views (simple counter) --> <img src="https://komarev.com/ghpvc/?username=DamianoMura&color=blue" /> <!-- Gists --> <img src="https://img.shields.io/badge/dynamic/json?color=purple&label=Gists&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDamianoMura" /> <!-- Account Created --> <img src="https://img.shields.io/badge/dynamic/json?color=green&label=Account%20Created&query=%24.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDamianoMura" /> </div>
+<div> <!-- Followers --> 
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDamianoMura" /> <!-- Public Repos --> 
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDamianoMura" /> <!-- Total Stars --> 
+  <img src="https://img.shields.io/badge/dynamic/json?color=yellow&label=Total%20Stars&query=%24%5B*%5D.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDamianoMura%2Frepos" /> <!-- Profile Views (simple counter) --> 
+  <img src="https://komarev.com/ghpvc/?username=DamianoMura&color=blue" /> <!-- Gists --> 
+  <img src="https://img.shields.io/badge/dynamic/json?color=purple&label=Gists&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDamianoMura" /> <!-- Account Created --> 
+  <img src="https://img.shields.io/badge/dynamic/json?color=green&label=Account%20Created&query=%24.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDamianoMura" /> </div>
 
 
 🌱 Currently Learning
