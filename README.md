@@ -37,7 +37,8 @@ Clean architecture, API‑driven, and optimized for developer experience.
 
 
 📊 GitHub Stats
-<img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/readme/header.png" />
+<img src="https://img.shields.io/badge/dynamic/json?color=blue&label=GitHub%20Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDamianoMura" />
+
 
 🌱 Currently Learning
 Advanced Laravel patterns
