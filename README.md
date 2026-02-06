@@ -37,9 +37,9 @@ Clean architecture, API‑driven, and optimized for developer experience.
 
 
 📊 GitHub Stats
-<div>
-  
-<img src="https://img.shields.io/badge/dynamic/json?color=blue&label=GitHub%20Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDamianoMura" />
+<div> 
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDamianoMura" /> 
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDamianoMura" /> 
 </div>
 
 
