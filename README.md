@@ -37,7 +37,7 @@ Clean architecture, API‑driven, and optimized for developer experience.
 
 
 📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DamianoMura&show_icons=true&theme=tokyonight&hide_border=true" /> <br/> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DamianoMura&layout=compact&theme=tokyonight&hide_border=true" /> </div>
+<img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/readme/header.png" />
 
 🌱 Currently Learning
 Advanced Laravel patterns
